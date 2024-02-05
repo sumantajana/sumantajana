@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Sumanta Jana - UI Lead
+# I'm Sumanta Jana - UI Lead
 
 - **Location:** Kolkata, India, 700153
 - **Phone:** +91 (973) 450 46 33
