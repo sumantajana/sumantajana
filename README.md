@@ -1,13 +1,8 @@
-### Hi there 👋, I'm [Sumanta](https://github.com/sumantajana) 👨‍💻
-
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
 </p>
-<h2 align="center" >
-  My Portfolio 👑
-</h2>
 
-
+### Hi there 👋, I'm [Sumanta](https://github.com/sumantajana) 👨‍💻
 - **Location:** Kolkata, India, 700153
 - **Email:** [sumantajana.india@gmail.com](mailto:sumantajana.india@gmail.com)
 - **LinkedIn:** [Sumanta Jana](https://www.linkedin.com/in/sumantajana)
