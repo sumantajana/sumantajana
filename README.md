@@ -17,7 +17,7 @@
   
 ## Professional Summary
 
-Dedicated Software Engineer with 7.7 years of comprehensive experience in software engineering, specializing in developing and maintaining resilient web applications. Proven expertise in deciphering intricate business needs and translating them into scalable, efficient technical solutions.
+Dedicated Software Engineer with 8 years of comprehensive experience in software engineering, specializing in developing and maintaining resilient web applications. Proven expertise in deciphering intricate business needs and translating them into scalable, efficient technical solutions.
 
 
 
